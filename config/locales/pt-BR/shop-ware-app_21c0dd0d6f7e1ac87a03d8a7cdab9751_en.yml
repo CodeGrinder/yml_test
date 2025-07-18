@@ -1,4 +1,4 @@
 pt_BR:
   non_consents:
-    already_opted_out: "Você já optou por não participar. Se desejar alterar seu status de exclusão, entre em contato com %{support_email}."
+    already_opted_out: "Você já optou por não participar. Se desejar alterar seu status de exclusão, entre em contato com %{support_email}. Update"
     error_saving: "Erro ao salvar seu registro de exclusão. Por favor, envie novamente ou entre em contato com %{support_email}"
