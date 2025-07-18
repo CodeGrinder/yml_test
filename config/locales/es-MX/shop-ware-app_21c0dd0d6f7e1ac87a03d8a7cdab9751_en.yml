@@ -1,4 +1,4 @@
 es_MX:
   non_consents:
-    already_opted_out: "Ya te has dado de baja. Si deseas cambiar tu estado de exclusión, por favor contacta a %{support_email}."
+    already_opted_out: "Ya te has dado de baja. Si deseas cambiar tu estado de exclusión, por favor contacta a %{support_email}. Update"
     error_saving: "Error al guardar su registro de exclusión. Por favor, envíelo de nuevo o contacte a %{support_email}"
