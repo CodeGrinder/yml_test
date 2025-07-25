@@ -1,0 +1,4 @@
+en:
+  non_consents:
+    already_opted_out: "You have already opted out. If you wish to change your opt-out status, please contact %{support_email}."
+    error_saving: "Error saving your opt-out record. Please submit again or contact %{support_email}"
